@@ -13,3 +13,14 @@
 5.HTML5符合语义化。
 
 职责描述：在此项目中，我主要负责的是此页面的设计和代码的实现。
+
+代码说明：
+
+css：
+base.css     重置与公用部分
+style.css    css2.0部分
+animate.css  css3部分
+
+javaScript：
+script.js   网页动态效果部分
+test.js     测试CSS3在网页实现效果部分
